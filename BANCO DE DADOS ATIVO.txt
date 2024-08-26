@@ -5,3 +5,10 @@ BANCO DE DADOS ATIVO
 * Procedimentos (Stored Procedure)
 
 batch = bloco de comando a ser executado
+
+DECLARE @nome VARCHAR(50);
+SET @nome = 'Juca';
+      ou
+SELECT @nome = nome
+FROM aluno
+Where id = "S";
