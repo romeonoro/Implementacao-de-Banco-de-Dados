@@ -1,0 +1,7 @@
+BANCO DE DADOS ATIVO
+-> Reagir Automaticamente
+* Gatilhos (Triggers)
+* Restrições (Constrain)
+* Procedimentos (Stored Procedure)
+
+batch = bloco de comando a ser executado
