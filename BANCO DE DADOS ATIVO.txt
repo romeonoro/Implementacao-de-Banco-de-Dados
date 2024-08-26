@@ -12,3 +12,5 @@ SET @nome = 'Juca';
 SELECT @nome = nome
 FROM aluno
 Where id = "S";
+
+DECLARE está em {memória}
